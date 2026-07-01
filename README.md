@@ -10,12 +10,11 @@ This project does not include JavaScript functionality yet. It focuses only on c
 
 ### Original Figma Design
 
-![Figma Design](screenshots/figma-design.png)
+![Figma Design](<screenshots/figma-design.png>)
 
 ### Final Webpage Output
 
-![Final Output](screenshots/final-output.png)
-
+![Final Output](<screenshots/final-output.png>)
 
 ## What Was Easy
 
